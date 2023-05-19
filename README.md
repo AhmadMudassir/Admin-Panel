@@ -7,6 +7,8 @@ This project is a User Management System that allows users to create and manage 
 - Create users with a name, email, and phone number.
 - Create tasks with a name, description, status (in progress or completed), and link them to a specific user.
 - Deleting a user automatically deletes all associated tasks.
+- View task details by clicking a button that opens a new screen displaying task information and the associated user.
+- Update tasks on the screen and submit the changes or delete the task.
 
 ## Technologies Used
 
