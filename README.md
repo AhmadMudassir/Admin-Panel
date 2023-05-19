@@ -12,7 +12,7 @@ This project is a User Management System that allows users to create and manage 
 
 ## Technologies Used
 
-- Backend: GraphQL
+- Backend: NodeJs, MongoDB, GraphQL
 - Frontend: React
 
 ## Installation
